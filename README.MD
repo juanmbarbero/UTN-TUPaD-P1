@@ -3,8 +3,8 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Juan Marcelo Barbero*  
-- **Comisión:** M2025-25 *  
+- **Nombre:** Juan Marcelo Barbero
+- **Comisión:** M2025-25 
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
